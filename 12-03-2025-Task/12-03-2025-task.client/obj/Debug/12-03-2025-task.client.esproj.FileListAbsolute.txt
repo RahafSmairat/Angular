@@ -1,0 +1,2 @@
+C:\Users\Orange\Desktop\12-03-2025-Task\12-03-2025-task.client\obj\Debug\12-03-2025-task.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\12-03-2025-Task\12-03-2025-task.client\obj\Debug\12-03-2025-task.client.esproj.CoreCompileInputs.cache
