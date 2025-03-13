@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\orange\\desktop\\angularapp1\\angularapp1.client\\src\\app\\binding\\binding.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\binding\\binding.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\orange\\desktop\\angularapp1\\angularapp1.client\\src\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\orange\\desktop\\angularapp1\\angularapp1.client\\src\\app\\binding\\binding.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\binding\\binding.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\orange\\desktop\\angularapp1\\angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\orange\\desktop\\angularapp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\orange\\desktop\\angularapp1\\angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E64771B6-940E-E937-AE23-81256BE008A8}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T02:09:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:36:42.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "binding.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\binding\\binding.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\binding\\binding.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\binding\\binding.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\binding\\binding.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:28:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binding.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\binding\\binding.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\binding\\binding.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\binding\\binding.component.html*",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\binding\\binding.component.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T01:20:06.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "my-service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\my-service.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\my-service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\my-service.service.ts*",
+              "RelativeToolTip": "angularapp1.client\\src\\my-service.service.ts*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:13:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T01:08:11.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
