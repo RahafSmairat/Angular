@@ -6,6 +6,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { CategoryComponent } from './category/category.component';
 import { ProductsComponent } from './products/products.component';
+import { SingleProductComponent } from './single-product/single-product.component';
 
 const routes: Routes = [
   { path: "login", component: LoginComponent },
@@ -13,7 +14,8 @@ const routes: Routes = [
   { path: "navbar", component: NavbarComponent },
   { path: "footer", component: FooterComponent },
   { path: "category", component: CategoryComponent },
-  { path: "products", component: ProductsComponent }
+  { path: "products/:id", component: ProductsComponent },
+  { path: "singleProduct/:id", component: SingleProductComponent }
 ];
 
 @NgModule({

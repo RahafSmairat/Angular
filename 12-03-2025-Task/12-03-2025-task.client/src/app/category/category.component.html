@@ -1,28 +1,14 @@
 <h2>Categories</h2>
 
+
+
 <div style="display:flex; justify-content:center; gap:10px">
-  <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card" style="width: 18rem;" *ngFor="let category of categories">
+    <img class="card-img-top" src={{category.img}} alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Product 1</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a routerLink="/products" class="btn btn-primary">Details</a>
-    </div>
-  </div>
-  <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Product 2</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a routerLink="/products" class="btn btn-primary">Details</a>
-    </div>
-  </div>
-  <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Product 3</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      <a routerLink="/products" class="btn btn-primary">Details</a>
+      <h5 class="card-title">{{category.name}}</h5>
+      <p class="card-text">{{category.description}}</p>
+      <a [routerLink]= "['/products', category.id]" class="btn btn-primary">Products</a>
     </div>
   </div>
 </div>

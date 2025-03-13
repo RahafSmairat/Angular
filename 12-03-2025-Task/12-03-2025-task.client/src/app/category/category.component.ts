@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { FetchProductsService } from '../Services/fetch-products.service';
 
 @Component({
   selector: 'app-category',
@@ -7,4 +8,16 @@ import { Component } from '@angular/core';
 })
 export class CategoryComponent {
 
+  categories: any[] = [];
+  constructor(private _service: FetchProductsService) { }
+
+  ngOnInit() {
+    this.getData();
+  }
+
+  getData() {
+    this._service.getCategories().subscribe(data => {
+      this.categories = data;
+    })
+  }
 }
