@@ -1,0 +1,20 @@
+<div *ngIf="loggedIn; else notLoggedIn">
+  Welcome user!
+</div>
+
+<ng-template #notLoggedIn>
+  <p>Welcome guest!</p>
+</ng-template>
+
+<br />
+
+<ul>
+  <li *ngFor="let b of books">{{b.name}}</li>
+</ul>
+
+<div [ngSwitch]="gender">
+  <p *ngSwitchCase="'female'">Female</p>
+  <p *ngSwitchCase="'male'">male</p>
+  <p *ngSwitchDefault>Please choose gender female/male</p>
+</div>
+

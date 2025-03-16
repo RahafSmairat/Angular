@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\single-product\\single-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\services\\fetch-products.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\services\\fetch-products.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\single-product\\single-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\single-product\\single-product.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\single-product\\single-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|c:\\users\\orange\\desktop\\angular\\12-03-2025-task\\12-03-2025-task.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE4523B9-E0EA-6A1E-53A3-690CB7B9FC60}|12-03-2025-task.client\\12-03-2025-task.client.esproj|solutionrelative:12-03-2025-task.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +59,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "signup.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\signup\\signup.component.html",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\signup\\signup.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\signup\\signup.component.html",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\signup\\signup.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T10:46:55.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T10:44:17.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "single-product.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.spec.ts",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\single-product\\single-product.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.spec.ts",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\single-product\\single-product.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T08:56:02.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T08:55:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T08:18:57.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "products.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\products\\products.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\products\\products.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\products\\products.component.ts",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\products\\products.component.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T08:18:20.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fetch-products.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T08:17:13.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T08:17:03.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "single-product.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.html",
               "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\single-product\\single-product.component.html",
@@ -38,25 +163,23 @@
               "RelativeToolTip": "12-03-2025-task.client\\src\\app\\single-product\\single-product.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T17:51:23.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:51:23.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "single-product.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.ts",
               "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\single-product\\single-product.component.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\single-product\\single-product.component.ts",
               "RelativeToolTip": "12-03-2025-task.client\\src\\app\\single-product\\single-product.component.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T17:43:48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:43:48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "products.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\products\\products.component.html",
               "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\products\\products.component.html",
@@ -64,21 +187,7 @@
               "RelativeToolTip": "12-03-2025-task.client\\src\\app\\products\\products.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T17:30:05.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "fetch-products.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
-              "RelativeDocumentMoniker": "12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\12-03-2025-Task\\12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
-              "RelativeToolTip": "12-03-2025-task.client\\src\\app\\Services\\fetch-products.service.ts",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:42:37.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:30:05.413Z"
             }
           ]
         }
