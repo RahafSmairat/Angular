@@ -12,6 +12,8 @@ import { DirectivesComponent } from './directives/directives.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { CategoryComponent } from './category/category.component';
 import { ProductsComponent } from './products/products.component';
+import { ChildComponent } from './child/child.component';
+import { ParentComponent } from './parent/parent.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { ProductsComponent } from './products/products.component';
     DirectivesComponent,
     NavbarComponent,
     CategoryComponent,
-    ProductsComponent
+    ProductsComponent,
+    ChildComponent,
+    ParentComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,

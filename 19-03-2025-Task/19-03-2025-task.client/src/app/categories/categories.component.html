@@ -9,12 +9,16 @@
     <tr class="table-warning">
       <th scope="col">Category Name</th>
       <th scope="col">Description</th>
+      <th scope="col">Edit</th>
     </tr>
   </thead>
   <tbody>
     <tr *ngFor="let category of categories">
       <td>{{ category.name }}</td>
       <td>{{ category.description }}</td>
+      <td>
+        <button class="btn btn-success" routerLink="/edit-category/{{category.id}}">Edit</button>
+      </td>
     </tr>
   </tbody>
 </table>

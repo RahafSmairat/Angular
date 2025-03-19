@@ -27,4 +27,12 @@ export class AddService {
     return this.http.post<any>(this.productUrl, product);
   }
 
+  updateCategory(id: any, category: any): Observable<any> {
+    return this.http.put(`${this.categoryUrl}/${id}`, category);
+  }
+
+  updateProduct(id: any, product: any): Observable<any> {
+    return this.http.put(`${this.productUrl}/${id}`, product);
+  }
+
 }
