@@ -1,0 +1,6 @@
+<form #categoryForm="ngForm" (ngSubmit)="add(categoryForm.value)">
+  <input type="text" name="name" ngModel placeholder="" />
+  <input type="text" name="description" ngModel placeholder="" />
+  <input type="text" name="img" ngModel placeholder="" />
+  <button type="submit">add category</button>
+</form>

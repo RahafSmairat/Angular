@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-directives',
@@ -6,10 +6,14 @@ import { Component } from '@angular/core';
   styleUrl: './directives.component.css'
 })
 export class DirectivesComponent {
-  loggedIn = false;
+
+  loggedIn = true;
 
   books= [
     { name: "book1" }, { name: "book2" }, { name: "book3" }];
 
   gender = "female";
+
+  @Input() myName!: string;
+
 }

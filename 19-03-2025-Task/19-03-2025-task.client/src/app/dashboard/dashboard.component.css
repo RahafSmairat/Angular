@@ -1,0 +1,21 @@
+.side {
+  background-color: papayawhip !important;
+  padding: 20px;
+}
+
+.main{
+    padding: 20px;
+}
+
+.nav-item{
+    background-color:white;
+    margin-top:20px;
+}
+
+  .nav-item .nav-link:hover {
+    color: #ffc107 !important;
+  }
+
+  .row{
+      height:100vh;
+  }

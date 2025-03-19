@@ -1,0 +1,8 @@
+
+<form #categoryForm="ngForm" (ngSubmit)="addCategory(categoryForm)">
+  <input type="text" name="name" ngModel required placeholder="Category Name"><br />
+  <input type="text" name="description" ngModel required placeholder="Description"> <br />
+  <input type="text" name="img" ngModel required placeholder="Image URL"><br />
+  <button type="submit">Add Category</button>
+</form>
+<p *ngIf="msg" style="color:red">{{msg}}</p>

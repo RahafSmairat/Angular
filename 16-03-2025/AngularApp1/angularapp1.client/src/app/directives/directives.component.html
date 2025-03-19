@@ -1,10 +1,8 @@
-<div *ngIf="loggedIn; else notLoggedIn">
+
+
+<div *ngIf="loggedIn">
   Welcome user!
 </div>
-
-<ng-template #notLoggedIn>
-  <p>Welcome guest!</p>
-</ng-template>
 
 <br />
 
@@ -18,3 +16,4 @@
   <p *ngSwitchDefault>Please choose gender female/male</p>
 </div>
 
+<h3>My Name is: {{ myName }}</h3>

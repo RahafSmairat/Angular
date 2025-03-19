@@ -1,0 +1,22 @@
+<h2>Products</h2>
+<br />
+<button routerLink="/addProduct" class="btn btn-warning">Add Product</button>
+<br />
+<br />
+
+<table class="table">
+  <thead>
+    <tr class="table-warning">
+      <th scope="col">Category Name</th>
+      <th scope="col">Description</th>
+      <th scope="col">Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of products">
+      <td>{{ product.name }}</td>
+      <td>{{ product.description }}</td>
+      <td>{{ product.price }}</td>
+    </tr>
+  </tbody>
+</table>
