@@ -1,0 +1,10 @@
+.btn {
+  background-color: #9584AA !important;
+  color: white;
+  border:none;
+}
+
+input:focus {
+  box-shadow: 0 0 20px #DFC5FE;
+  border: 1px solid #DFC5FE;
+}

@@ -1,0 +1,40 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="https://static-00.iconduck.com/assets.00/white-heart-emoji-2048x1835-ni3jff5l.png" width="50"/></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <div class="d-flex">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0" *ngIf="logginStatus">
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/profile">Profile</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" (click)="logout()" href="/home">Logout</a>
+          </li>
+        </ul>
+
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0" *ngIf="!logginStatus">
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/login">Login</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/signup">Sign Up</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
