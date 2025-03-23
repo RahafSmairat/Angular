@@ -1,0 +1,20 @@
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Name</th>
+      <th scope="col">Price</th>
+      <th scope="col">Quantity</th>
+      <th scope="col">Edit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let voucher of vouchers">
+      <td>{{voucher.id}}</td>
+      <td>{{voucher.name}}</td>
+      <td>{{voucher.price}}</td>
+      <td>{{voucher.quantity}}</td>
+      <td><a class="btn btn-success" routerLink="/edit/{{voucher.id}}">Edit</a></td>
+    </tr>
+  </tbody>
+</table>

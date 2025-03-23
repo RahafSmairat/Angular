@@ -1,0 +1,24 @@
+<h2>Add Voucher</h2>
+
+<form #voucherForm="ngForm" (ngSubmit)="add(voucherForm.value)">
+  <div class="mb-3">
+    <label for="name" class="form-label">Voucher Name</label>
+    <input type="text" name="name" ngModel placeholder="Enter name" class="form-control border-warning" required />
+  </div>
+
+  <div class="mb-3">
+    <label for="price" class="form-label">Voucher Price</label>
+    <input type="text" name="price" ngModel placeholder="Enter price" class="form-control border-warning" required />
+  </div>
+
+  <div class="mb-3">
+    <label for="quantity" class="form-label">Voucher Quantinty</label>
+    <input type="text" name="quantity" ngModel placeholder="Enter quantity" class="form-control border-warning" required />
+  </div>
+
+  <button type="submit" class="btn btn-warning">Add Voucher</button>
+</form>
+
+<p *ngIf="msg" class="alert alert-success mt-3">{{ msg }}</p>
+
+

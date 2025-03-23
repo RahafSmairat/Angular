@@ -13,6 +13,9 @@ import { AddCategoryComponent } from './add-category/add-category.component';
 import { FormsModule } from '@angular/forms';
 import { EditCategoryComponent } from './edit-category/edit-category.component';
 import { EditProductComponent } from './edit-product/edit-product.component';
+import { VouchersComponent } from './vouchers/vouchers.component';
+import { AddVoucherComponent } from './add-voucher/add-voucher.component';
+import { EditVoucherComponent } from './edit-voucher/edit-voucher.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +26,10 @@ import { EditProductComponent } from './edit-product/edit-product.component';
     AddProductComponent,
     AddCategoryComponent,
     EditCategoryComponent,
-    EditProductComponent
+    EditProductComponent,
+    VouchersComponent,
+    AddVoucherComponent,
+    EditVoucherComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,

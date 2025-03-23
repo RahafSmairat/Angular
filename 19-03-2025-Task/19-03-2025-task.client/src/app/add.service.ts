@@ -35,4 +35,17 @@ export class AddService {
     return this.http.put(`${this.productUrl}/${id}`, product);
   }
 
+  //
+
+  getAllVouchers() {
+    return this.http.get<any>("https://67d9ae8e35c87309f529c67f.mockapi.io/sign/voucher")
+  }
+
+  addVoucher(data:any) {
+    return this.http.post("https://67d9ae8e35c87309f529c67f.mockapi.io/sign/voucher", data)
+  }
+
+  editVoucher(id: any, data: any) {
+    return this.http.put(`https://67d9ae8e35c87309f529c67f.mockapi.io/sign/voucher/${id}`, data)
+  }
 }
