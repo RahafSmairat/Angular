@@ -11,6 +11,7 @@
       <th scope="col">Description</th>
       <th scope="col">Price</th>
       <th scope="col">Edit</th>
+      <th scope="col">Delete</th>
     </tr>
   </thead>
   <tbody>
@@ -20,6 +21,9 @@
       <td>{{ product.price }}</td>
       <td>
         <button class="btn btn-success" routerLink="/edit-product/{{product.id}}">Edit</button>
+      </td>
+      <td>
+        <button class="btn btn-danger" (click)= "delete(product.id)" >Delete</button>
       </td>
     </tr>
   </tbody>

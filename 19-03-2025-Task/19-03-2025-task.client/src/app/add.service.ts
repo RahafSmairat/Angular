@@ -48,4 +48,9 @@ export class AddService {
   editVoucher(id: any, data: any) {
     return this.http.put(`https://67d9ae8e35c87309f529c67f.mockapi.io/sign/voucher/${id}`, data)
   }
+
+  //
+  deleteProduct(id: any) {
+    return this.http.delete(`https://67d30be18bca322cc268fdac.mockapi.io/products/${id}`)
+  }
 }
